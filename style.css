@@ -1,0 +1,127 @@
+#tempo {
+    position: absolute;
+    right: 3px;
+    font-size: 20pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#tempo {
+    position: absolute;
+    right: 3px;
+    font-size: 20pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#um {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 0px;
+    top: 350px;
+    background-color: black;
+}
+
+#dois {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 100px;
+    top: 350px;
+    background-color: black;
+}
+
+#tres {
+    position: absolute;
+    width: 30px;
+    height: 100px;
+    left: 200px;
+    top: 280px;
+    background-color: black;
+}
+
+#quatro {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 200px;
+    top: 280px;
+    background-color: black;
+}
+
+#cinco {
+    position: absolute;
+    width: 30px;
+    height: 200px;
+    left: 300px;
+    top: 110px;
+    background-color: black;
+}
+
+
+#seis {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 300px;
+    top: 110px;
+    background-color: black;
+}
+
+#sete {
+    position: absolute;
+    width: 30px;
+    height: 400px;
+    left: 400px;
+    top: 110px;
+    background-color: black;
+}
+
+#oito {
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    left: 420px;
+    top: 480px;
+    background-color: black;
+}
+
+#nove {
+    position: absolute;
+    width: 30px;
+    height: 100px;
+    left: 620px;
+    top: 410px;
+    background-color: black;
+}
+
+#dez {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 620px;
+    top: 410px;
+    background-color: black;
+}
+
+
+#chegada {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    right: -5px;
+    top: 230px;
+    background-color: red;
+}
+
+#fim {
+    position: fixed;
+    font-size: 50pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    color: yellow;
+    padding: 40px;
+    display: none;
+}
